@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Българските земи през вековете</title>
+	<link rel="stylesheet" href="css\osnova.css">
+	<link rel="stylesheet" href="css\donations.css">
+
+<script>
+function slideOpen(el){
+	var elem = document.getElementById(el);
+	elem.style.transition = "visibility 0.1s linear 0.3s";
+	elem.style.visibility= "visible";
+}
+function slideClosed(el){
+	var elem = document.getElementById(el);
+	elem.style.transition = "visibility 0.3s linear 0.1s";
+	elem.style.visibility = "hidden";
+}
+</script>
+</head>
+<body>
+	<div class="menu">
+	<h1>Българските земи през вековете</h1>
+	<h2>Зала на славата</h2>
+		<ul class="nav-list">
+    <li>
+      <a href="home.html">Начало</a>
+    </li>
+    <li>
+      <a href="changelog.html">Етапи на развитие</a>
+    </li>
+    <li>
+      <a href="money.html">Бюджет</a>
+    </li>
+    <li>
+      <a href="donations.html">Зала на славата</a>
+    </li>
+    <li>
+      <a href="ceni.html">Билети</a>
+    </li>
+    <li>
+      <a href="forum.html">Контакти</a>
+    </li>
+    </ul>
+	</div>
+	<div class="tekst">
+		<h3>Най-дашни дарители</h3>
+		<h3>
+			<button onclick="slideOpen('box');">Отвори</button>
+			<button onclick="slideClosed('box');">Затвори</button>
+		</h3>
+		
+		<div id="box">
+			<table class="d">
+  				<tr>
+    				<th class="purvi">Дата</th>
+    				<th class="purvi">Сума</th>
+  				</tr>
+  				<tr>
+    				<td>09/05/2020г.</td>
+    				<td>500 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td>18/07/2020г.</td>
+    				<td>350 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td>19/10/2021г.</td>
+    				<td>200 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td>25/03/2022г.</td>
+    				<td>150 000лв.</td>
+	  			</tr>
+  				<tr>
+    				<td>08/04/2021г.</td>
+    				<td>125 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td>01/07/2020г.</td>
+    				<td>110 000лв.</td>
+	  			</tr>
+  				<tr>
+    				<td>12/06/2022г.</td>
+    				<td>98 000лв.</td>
+  				</tr>
+	  			<tr>
+    				<td>16/05/2021г.</td>
+    				<td>75 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td>30/07/2020г.</td>
+    				<td>50 000лв.</td>
+  				</tr>
+  				<tr>
+    				<td >02/08/2022г.</td>
+    				<td >25 000лв.</td>
+  				</tr>
+  				<tr>
+    				<th class="posleden">до момента</td>
+    				<th class="posleden">2 000 000лв.</td>
+  				</tr>
+			</table>
+		</div>
+		<div id="box1">
+			<table class="d">
+  				<tr>
+  					<th class="purvi">№</th>
+    				<th class="purvi">Прозвище</th>
+  				</tr>
+  				<tr>
+  					<th>1</th>
+  					<td>Кристиян Тодоров</td>
+  				</tr>
+  				<tr>
+  					<th>2</th>
+    				<td>Петър Теофилов</td>
+  				</tr>
+	  			<tr>
+	  				<th>3</th>
+    				<td>Николай Попов</td>
+  				</tr>
+  				<tr>
+  					<th>4</th>
+    				<td>Агата Великолепна</td>
+  				</tr>
+  				<tr>
+  					<th>5</th>
+    				<td>Геро Сарафов</td>
+  				</tr>
+  				<tr>
+  					<th>6</th>
+    				<td>Бойко Соколов</td>
+  				</tr>
+  				<tr>
+  					<th>7</th>
+    				<td>Ана-Мария Кръстева</td>
+  				</tr>
+  				<tr>
+  					<th>8</th>
+    				<td>Борис Бойков</td>
+  				</tr>
+  				<tr>
+  					<th>9</th>
+    				<td>Клаудия Попова</td>
+  				</tr>
+  				<tr>
+  					<th>10</th>
+    				<td>Страхил Чернев</td>
+  				</tr>
+  				<tr>
+    				<th class="posleden">Общо</td>
+    				<th class="posleden">събрани</td>
+  				</tr>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

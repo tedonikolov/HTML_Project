@@ -1,0 +1,44 @@
+div.menu{
+	z-index: 3;
+	text-align: center;
+	overflow: hidden;
+	top: 0;
+	position: -webkit-sticky;
+  	position: sticky;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px;
+	margin-left: -15px;
+	width: 100%;
+	background: inherit;
+	display: inline-block;
+	padding: 0px;
+}
+div.tekst{
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	text-indent: 50px;
+}
+p{
+	text-align: center;
+	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+	padding-bottom: 30px;	
+ 	width: 90%;
+ 	text-align: justify;
+ 	margin-left: 80px;
+}
+img{
+	border-radius: 10%;
+	border: 5px solid black;
+	border-width: 100%;
+}
+h3{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, serif;
+	height: 6px;
+	padding-bottom: 30px;
+}
