@@ -1,0 +1,109 @@
+div.menu{
+	z-index: 2;
+	text-align: center;
+	overflow: hidden;
+	top: 0;
+	position: -webkit-sticky;
+  	position: sticky;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px;
+	margin-left: -15px;
+	width: 100%;
+	background: inherit;
+	display: inline-block;
+	padding: 0px;
+}
+div.tekst{
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	padding-bottom: 30px;	
+ 	width: 45%;
+ 	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+ 	margin-left: 80px;
+}
+p{
+	text-align: center;
+	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+	padding-bottom: 17px;	
+ 	width: 90%;
+ 	text-align: justify;
+ 	margin-left: 80px;
+}
+img.poshta{
+	border-radius: 10%;
+	border: 5px solid black;
+	border-width: 100%;
+	width: 80px;
+	height: 40px;
+}
+img.telephon{
+	border-radius: 10%;
+	border: 5px solid black;
+	border-width: 100%;
+	width: 40px;
+	height: 60px;
+	margin: 0px;
+	margin-left: 20px;
+}
+img.adres{
+	width: 55px;
+	height: 60px;
+	margin: 0px;
+	margin-left: 20px;
+}
+img.vreme{
+	width: 60px;
+	height: 60px;
+	margin: 0px;
+	margin-left: 20px;
+	border-radius: 50%;
+}
+h3{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, serif;
+	height: 6px;
+	padding-bottom: 60px;
+}
+input{
+	height: 25px;
+}
+input.buton{
+	width: 140px;
+	height: 50px;
+}
+div.adres{
+	z-index: -1;
+	float: right;
+	position: relative;
+	text-align: left;
+	padding-bottom: 30px;	
+ 	width: 45%;
+ 	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+ 	margin-left: 100px;
+}
+p.poshta{
+	padding-top: 10px;
+	color: blue;
+}
+p.telephon{
+	padding-top: 40px;
+	padding-left: 0px; 
+	color: brown;
+}
+p.adres{
+	padding-top: 35px;
+	padding-left: 0px; 
+	color: brown;
+}
+p.vreme{
+	padding-top: 10px;
+	padding-left: 0px; 
+	color: brown;
+}

@@ -1,0 +1,119 @@
+div.menu{
+	z-index: 400;
+	text-align: center;
+	overflow: hidden;
+	top: 0;
+	position: -webkit-sticky;
+  	position: sticky;
+  	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0px;
+	margin-left: -15px;
+	width: 100%;
+	background: inherit;
+	display: inline-block;
+	padding: 0px;
+}
+div.tekst{
+	z-index: 8;
+	position: relative;
+	text-align: center;
+}
+p{
+	text-align: left;
+	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+	padding-bottom: 30px;	
+ 	width: 90%;
+ 	margin-left: 100px;
+ 	padding-top: 25px;
+}
+img{
+	border-radius: 10%;
+	border: 5px solid black;
+	border-width: 100%;
+}
+h3{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Comic Sans MS", cursive, serif;
+	height: 6px;
+	padding-bottom: 30px;
+}
+button{
+	width: 100px;
+	height: 50px;
+	font-size: 20px;
+	font-family: "Comic Sans MS", cursive, serif;
+	font-weight: bold;
+	border-radius: 50%;
+	border: 5px solid black;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	cursor: pointer;
+	box-shadow: 0 5px #666;
+}
+button:hover{
+	background-color: lightgreen;
+	box-shadow: 0 5px #666;
+	
+}
+button:active {
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
+div#box {
+	float: right;
+	background-color: #ffcc00;
+	margin-right: 90px;
+	width: 45%;
+	height: 800px;
+	overflow: hidden;
+	visibility: hidden;
+	border-radius: 0% 25% 25% 0%;
+	border-right: 4px solid black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	margin-bottom: 80px;
+}
+div#box1 {
+	margin-left: 90px;
+	background-color: #ffcc00;
+	width: 45%;
+	height: 800px;
+	overflow: hidden;
+	border-radius: 25% 0% 0% 25%;
+	border-left: 4px solid black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	margin-bottom: 80px;
+}
+table{
+	border-collapse: collapse;
+  	border: 0px solid black;
+  	table-layout: fixed;
+  	width: 100%;
+  	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+	padding-bottom: 30px;	
+ 	padding-top: 25px;  
+ 	margin-bottom: 50px;
+}
+th,td {
+  padding: 10px;
+  padding-top: 30px;
+}
+th.purvi{
+	border-bottom: 4px solid black;
+	padding: 0px;
+	padding-top: 25px;
+	font-size: 30px;
+}
+th.posleden{
+	border-top: 4px solid black;
+	border-bottom: 4px solid black;
+	padding: 10px;
+}
