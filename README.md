@@ -6,5 +6,27 @@ The website is used for presentation of school project representing historical p
 <a href="https://www.linkpicture.com/view.php?img=LPic63c0656758f90218744156"><img src="https://www.linkpicture.com/q/Screenshot-2023-01-12-215345.png" type="image"></a>
 
 # Stages of creation
+<ul>
+  <li>February 2022
+
+Discovery of the Neolithic and Chalcolithic settlement</li>
+  <li>September 2022
+
+Discovery of Hellenic and a Roman settlement</li>
+  <li>March 2023
+
+Discovery of the Proto-Bulgarian, Savanian and Thracian settlement</li>
+  <li>August 2023
+
+Discovery of the First Bulgarian Kingdom</li>
+  <li>January 2024
+
+Discovery of the Second Bulgarian Kingdom</li>
+  <li>August 2024
+
+Period detection under Ottoman slavery</li>
+  <li>February 2025
+
+Discovery of post-liberation Bulgaria</li>
 <a href="https://www.linkpicture.com/view.php?img=LPic63c068e9ae083738691499"><img src="https://www.linkpicture.com/q/Screenshot-2023-01-12-220815.png" type="image"></a>
 <a href="https://www.linkpicture.com/view.php?img=LPic63c068e9ae083738691499"><img src="https://www.linkpicture.com/q/Screenshot-2023-01-12-220837.png" type="image"></a>
