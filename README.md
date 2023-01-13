@@ -27,9 +27,9 @@ Discovery of the Second Bulgarian Kingdom</li>
 
 Period detection under Ottoman slavery</li>
   <li>February 2025
-</ul>
+    
 Discovery of post-liberation Bulgaria</li>
+</ul>
 <a href="https://htmlproject.tedonikolov.repl.co/etap3.html"><img src="https://www.linkpicture.com/q/Screenshot-2023-01-12-220815.png" type="image"></a>
 <a href="https://htmlproject.tedonikolov.repl.co/etap3.html"><img src="https://www.linkpicture.com/q/Screenshot-2023-01-12-220837.png" type="image"></a>
 <p>On each of the stage picture can be click, which will open more the historical info of the period.</p>
-
